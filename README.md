@@ -1,6 +1,7 @@
 **Study Sync** is a clean and responsive front-end project built using HTML and CSS. It serves as a landing page or homepage for an educational platform that helps students collaborate, organize, and enhance their study experience.
 
 **Features**
+
 📱 Fully responsive design
 
 🎯 Clean and modern UI
@@ -27,6 +28,7 @@ CSS3 (Flexbox/Grid)
 
 
 **Folder Structure**
+
 study-sync/
 ├── index.html
 ├── style.css
