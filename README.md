@@ -22,14 +22,23 @@
 **Third UI**
 <img width="1912" height="1024" alt="image" src="https://github.com/user-attachments/assets/1071da47-9e87-4500-b608-10aa08cc923e" />
 
-**Built With**
+**Built With** </br>
 HTML5
 CSS3 (Flexbox/Grid)
 
 
-**Folder Structure**
+**Folder Structure** </br>
 
 study-sync/
 ├── index.html
 ├── style.css
 ├── images/
+
+
+**How to Use**
+**Clone the repository:** </br>
+1. git clone https://github.com/your-username/study-sync.git
+2. Open index.html in your browser.
+     No dependencies or build steps required — it's a static front-end project!
+
+
