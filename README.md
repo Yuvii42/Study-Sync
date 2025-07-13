@@ -30,13 +30,21 @@ CSS3 (Flexbox/Grid)
 **Folder Structure** </br>
 
 study-sync/
+
+
 ├── index.html
+
+
 ├── style.css
+
+
 ├── images/
 
 
 **How to Use**
 **Clone the repository:** </br>
+
+
 1. git clone https://github.com/your-username/study-sync.git
 2. Open index.html in your browser.
      No dependencies or build steps required — it's a static front-end project!
